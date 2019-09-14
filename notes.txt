@@ -1,0 +1,4 @@
+Things we know.
+
+- output is usually 128 chars
+- for 1 and 5 character strings difference is only first 34 characters
